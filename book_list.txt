@@ -1,0 +1,51 @@
+ID,Genre,Title,Author,PurchasePrice,PurchaseDate
+1,Sci-fi,Dune,Frank Herbert,10,01/08/2014
+2,Fantasy,A Game of Thrones,George R. R. Martin,20,01/08/2014
+3,Horror,The Accursed,Joyce Carol Oates,50,01/10/2014
+4,Crime Documentary,Empire of Pain,Patrick Radden Keefe,60,01/08/2013
+5,Biography,Einstein: His Life and Universe,Walter Isaacson,40,10/08/2014
+6,Sci-fi,Neuromancer,William Gibson,25,01/08/2016
+7,Fantasy,Harry Potter and the Philosopher's Stone,J. K. Rowling,50,01/08/2014
+8,Horror,It	Stephen King,70,01/08/2014
+9,Crime Documentary,The Poisoner's Handbook,Deborah Blum,45,02/08/2014
+10,Biography,Becoming (book),Michelle Obama,35,03/08/2014
+11,Romance,The Notebook (novel),Nicholas Sparks,25,04/08/2014
+12,Fiction,The Great Gatsby,F. Scott Fitzgerald,35,05/08/2014
+13,Scifi,Brave New World,Aldous Huxley,65,06/08/2014
+14,Romance,It Ends with Us,Colleen Hoover,70,07/08/2014
+15,Thriller,Verity,Colleen Hoover,80,08/08/2014
+16,Comedy,Bossypants,Tina Fey,56,09/08/2014
+17,Horror,Devil House,John Darnielle,89,10/08/2014
+18,Romance,The Love Hypothesis,Ali Hazelwood,34,11/08/2014
+19,Biography,Steve Jobs (book),Walter Isaacson,98,12/08/2014
+20,Fantasy,The Fifth Season,N. K. Jemisin,84,13/08/2014
+21,Classics,Little Women,Louisa May Alcott,45,14/08/2014
+22,Computer,Python in easy steps,Mike McGrath,37,15/08/2014
+23,Biography,Steve Jobs (book),Walter Isaacson,98,12/08/2014
+24,Fantasy,The Fifth Season,N. K. Jemisin,84,13/08/2014
+25,Classics,Little Women,Louisa May Alcott,45,14/08/2014
+26,Computer,Python in easy steps,Mike McGrath,37,15/08/2014
+27Crime Documentary,The Poisoner's Handbook,Deborah Blum,45,02/08/2014
+28,Biography,Becoming (book),Michelle Obama,35,03/08/2014
+29,Romance,The Notebook (novel),Nicholas Sparks,25,04/08/2014
+30,Fiction,The Great Gatsby,F. Scott Fitzgerald,35,05/08/2014
+31,Scifi,Brave New World,Aldous Huxley,65,06/08/2014
+32,Comedy,Lucky,Jim Kingsley Amis,86,25/08/2014
+33,Comedy,Three of Us, Durjoy Dutta,73,26/08/2014
+34,Classics,Jane Eyre,Charlotte Bront,53,27/08/2014
+35,Horror,The Void,Brett J. Talley,65,28/08/2014
+36,Romance,Ugly Love,Colleen Hoover,87,29/08/2014
+37,Fiction,Beloved (novel),Toni Morrison,48,30/08/2014
+38,Drama,Hamlet,William Shakespeare,45,31/08/2014
+39,Thriller,The Guest List,Lucy Foley,56,01/09/2014
+40,Romance,The Notebook (novel),Nicholas Sparks,25,04/08/2014
+41,Fiction,The Great Gatsby,F. Scott Fitzgerald,35,05/08/2014
+42,Scifi,Brave New World,Aldous Huxley,65,06/08/2014
+43,Comedy,Lucky,Jim	Kingsley Amis,86,25/08/2014
+44,Fantasy,The Fifth Season,N. K. Jemisin,84,13/08/2014
+45,Classics,Little Women,Louisa May Alcott,45,14/08/2014
+46,Drama,Othello,William Shakespeare,67,08/09/2014
+47,Classics,Anna Karenina,Leo Tolstoy,80,09/09/2014
+48,Sci-fi,Dune,Frank Herbert,10,01/08/2014
+49,Fantasy,A Game of Thrones,George R. R. Martin,20,01/08/2014
+50,Horror,The Accursed,Joyce Carol Oates,50,01/10/2014
