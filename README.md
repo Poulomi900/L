@@ -1,4 +1,4 @@
- # Library Management System Project README
+### Library Management System Project README
 
 ## Overview
 This Library Management System project, that offers comprehensive functionalities for efficient library management. With six modules, two text files, and a detailed README file, this project streamlines various library tasks.
